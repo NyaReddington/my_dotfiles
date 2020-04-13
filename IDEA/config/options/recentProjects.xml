@@ -1,0 +1,65 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/Code/IdeaProject/findcar">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Z9kW2ZJjgVrxm0nQNu76GR2BIH">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5233.102" />
+              <option name="buildTimestamp" value="1574895199183" />
+              <frame x="53" y="64" width="1693" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1585752671373" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Code/IdeaProject/taotaoparent-SpringCloud/taotaoparent">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1TJh0yhbjZSVrpSKzQn6kPwPTX2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5233.102" />
+              <option name="buildTimestamp" value="1574895196028" />
+              <frame x="51" y="47" width="1754" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1585883425723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Code/IdeaProject/JavaWeb">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1RJ7oHLBbNkKp88nQHxnEZ6tBOs">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5233.102" />
+              <option name="buildTimestamp" value="1574895232975" />
+              <frame x="58" y="34" width="1754" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1585997333245" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Code/IdeaProject/BCPAttendance">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1Z9oJsfADSdmAUg1LcnP9s9dJ9Z">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5233.102" />
+              <option name="buildTimestamp" value="1574895200376" />
+              <frame x="93" y="61" width="1774" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1586748940174" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/Code/IdeaProject" />
+    <option name="recentPaths">
+      <list>
+        <option value="D:/Code/IdeaProject/BCPAttendance" />
+        <option value="D:/Code/IdeaProject/JavaWeb" />
+        <option value="D:/Code/IdeaProject/taotaoparent-SpringCloud/taotaoparent" />
+        <option value="D:/Code/IdeaProject/findcar" />
+      </list>
+    </option>
+  </component>
+</application>

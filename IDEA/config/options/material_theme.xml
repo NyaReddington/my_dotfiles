@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="167c80" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="-7ee0a3e3:16ed4bde963:-8000" />
+    <option name="version" value="4.10.0" />
+  </component>
+</application>
